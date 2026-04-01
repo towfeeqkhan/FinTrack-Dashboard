@@ -8,6 +8,9 @@
 
 FinTrack is a stunning, deeply interactive personal finance dashboard built to elegantly track income, expenses, and personal spending habits. It uses a modern technology stack designed for pure performance and highly aesthetic, data-driven interfaces.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4e9d3048-c0b3-4649-8805-96e7c55d6ee5" />
+
+
 ## ✨ Features
 
 - **Holistic Overview**: Centralized card widgets tracking total net worth, monthly income, and monthly expenses utilizing dynamic Month-over-Month historical comparisons.
