@@ -8,6 +8,8 @@
 
 FinTrack is a stunning, deeply interactive personal finance dashboard built to elegantly track income, expenses, and personal spending habits. It uses a modern technology stack designed for pure performance and highly aesthetic, data-driven interfaces.
 
+🔗 **Live Project Link:** https://fintrack-zorvyn.vercel.app/
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4e9d3048-c0b3-4649-8805-96e7c55d6ee5" />
 
 
